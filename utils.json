@@ -1,0 +1,17 @@
+{
+    "name": "rest-internationalization",
+    "owner": "aramtech",
+    "deps": {
+        "rest-common": {
+            "owner": "aramtech", 
+            "repo": "rest-common",
+            "update_policy": "major",
+            "version": "0.2.0"
+        }
+    },
+    "public_repo": false,
+    "private": false,
+    "hash": "4Hk0w7Euf8A2hELDMP3S1zWX1KkzYVrK_DrfraBc5F0",
+    "version": "0.2.2",
+    "description": ""
+}
